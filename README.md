@@ -1,6 +1,8 @@
 # locpoly_r
 Estimate Functions Using Local Polynomials Use locpoly With (In) R Software
 
+https://www.youtube.com/watch?v=J-a0M7PHS-0
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
